@@ -1,3 +1,5 @@
+This repo include the sjcl build with bytes codec enabled, for use with [AWS Cognito SDK](http://docs.aws.amazon.com/cognito/latest/developerguide/setting-up-the-javascript-sdk.html)
+
 sjcl
 ====
 
@@ -14,9 +16,9 @@ Security Advisories
 
 Security Contact
 ====
-Security Mail: sjcl@ovt.me  
-OpenPGP-Key Fingerprint: 0D54 3E52 87B4 EC06 3FA9 0115 72ED A6C7 7AAF 48ED  
-Keyserver: pool.sks-keyservers.net  
+Security Mail: sjcl@ovt.me
+OpenPGP-Key Fingerprint: 0D54 3E52 87B4 EC06 3FA9 0115 72ED A6C7 7AAF 48ED
+Keyserver: pool.sks-keyservers.net
 
 Upgrade Guide
 ====
